@@ -177,6 +177,7 @@ section.topo-do-site .flex {
 .topo-do-site .img-topo-site img {
     position: relative;
     animation: flutuar 2s ease-in-out infinite alternate;
+    filter: drop-shadow(0 0 10px #00FF08);
 }
 
 
